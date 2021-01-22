@@ -80,4 +80,3 @@ amplify push
 ```sh
 gatsby develop
 ```
-# gatsby-amplify-auth
